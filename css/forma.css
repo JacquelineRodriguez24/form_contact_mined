@@ -1,0 +1,12 @@
+
+.caja2{
+    display: none;
+}
+
+.caja1.oculto{
+    display: none;
+}
+
+.caja2.activar{
+    display: block;
+}
